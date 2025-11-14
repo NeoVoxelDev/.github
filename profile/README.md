@@ -1,7 +1,5 @@
 # NeoVoxel 团队
 
-![Team Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=NeoVoxel+Team)
-
 ## 🚀 关于我们
 
 NeoVoxel 是一支专注于 Minecraft Java 版插件开发的创新团队。我们致力于为服务器提供高性能、功能丰富且用户体验优秀的插件解决方案。
