@@ -17,7 +17,6 @@ NeoVoxel 是一支专注于 Minecraft Java 版插件开发的创新团队。我�
 - **其他技术**:
   - NMS (Net Minecraft Server)
   - ProtocolLib
-  - WorldEdit API
 
 ## 🛠️ 我们的专长
 
@@ -57,9 +56,9 @@ public class DataManager {
 
 ## 📞 联系我们
 
-- **邮箱**: contact@neovoxel.com
-- **GitHub**: [github.com/NeoVoxel](https://github.com/NeoVoxel)
-- **Discord**: [加入我们的社区](https://discord.gg/neovoxel)
+- **邮箱**: support@neovoxel.com
+- **GitHub**: [github.com/NeoVoxelDev](https://github.com/NeoVoxelDev)
+- **Discord**: [加入我们的社区](https://discord.gg/neovoxeldev)
 
 ## 📄 开源协议
 
