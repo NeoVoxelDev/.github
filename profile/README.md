@@ -1,64 +1,34 @@
-# NeoVoxel 团队
+# NeoVoxel 开发团队
 
 ## 🚀 关于我们
 
-NeoVoxel 是一支专注于 Minecraft Java 版插件开发的创新团队。我们致力于为服务器提供高性能、功能丰富且用户体验优秀的插件解决方案。
+欢迎来到 NeoVoxel 开发团队, 我们团队致力于打造 Minecraft Java 版相关的一些作品 (如 Spigot 插件, Fabric 模组), 为玩家提供更好的游玩体验
+
+我们欢迎更多开发者加入我们, 如有意愿可以通过下方联系方式来联系我们!
 
 ## 💡 技术栈
 
-- **核心语言**: Java
-- **开发框架**: 
-  - Bukkit/Spigot/Paper API
-  - Maven/Gradle 构建工具
+- **开发语言**: 
+  - **Java**
+  - Go
+  - Vue
+- **开发框架**:
+  - Spigot/Velocity 等插件 API
+  - VitePress
+  - Wails
 - **数据库**: 
   - MySQL
+  - MariaDB
+  - PostgreSQL
   - SQLite
-  - MongoDB
-- **其他技术**:
-  - NMS (Net Minecraft Server)
-  - ProtocolLib
-
-## 🛠️ 我们的专长
-
-### 插件开发
-- 平台互联
-
-### 特色能力
-```java
-// 示例：高性能异步数据处理
-public class DataManager {
-    public CompletableFuture<PlayerData> loadPlayerDataAsync(UUID uuid) {
-        return CompletableFuture.supplyAsync(() -> {
-            // 异步数据加载逻辑
-            return database.getPlayerData(uuid);
-        });
-    }
-}
-```
-
-## 📦 项目展示
-
-### 主要作品
-- **NeoBot** - 连接 Minecraft 与 多平台 聊天软件 的 高效插件
-
-## 🌟 团队理念
-
-> "代码如诗，功能如画"
-> 
-> 我们相信优秀的插件不仅要有强大的功能，更要有优雅的代码结构和出色的用户体验。
-
-## 🔧 开发标准
-
-- **代码质量**: 严格的代码审查与测试
-- **性能优化**: 内存管理与异步处理
-- **文档完善**: 详细的 API 文档和使用指南
-- **向后兼容**: 确保版本更新的平滑过渡
+  - H2
 
 ## 📞 联系我们
 
-- **邮箱**: support@neovoxel.com
-- **GitHub**: [github.com/NeoVoxelDev](https://github.com/NeoVoxelDev)
-- **Discord**: [加入我们的社区](https://discord.gg/neovoxeldev)
+- **邮箱**: support@neovoxel.dev
+- **QQ 群组**: [1070224982](https://qm.qq.com/q/p7uzB9Nvuo)
+- **GitHub**: [NeoVoxelDev](https://github.com/NeoVoxelDev)
+- **Discord**: [NeoVoxel](https://discord.gg/KxCWZMGC)
 
 ## 📄 开源协议
 
