@@ -25,10 +25,10 @@
 
 ## 📞 联系我们
 
-- **邮箱**: support@neovoxel.dev
+- **邮箱**: admin@neovoxel.dev
 - **QQ 群组**: [1070224982](https://qm.qq.com/q/p7uzB9Nvuo)
 - **GitHub**: [NeoVoxelDev](https://github.com/NeoVoxelDev)
-- **Discord**: [NeoVoxel](https://discord.gg/KxCWZMGC)
+- **Discord**: [NeoVoxel](https://discord.gg/EqckwTDF)
 
 ## 📄 开源协议
 
